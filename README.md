@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Sabas (SKIPY95D)</h1>
-<h3 align="center">🔥//Ethical-Hacker//RedTeam//🔥</h3>
+<h3 align="center">🔥//Pentest//RedTeam//🔥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skipy95d&label=Profile%20views&color=0e75b6&style=flat" alt="skipy95d" /> </p>
 
