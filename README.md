@@ -12,7 +12,9 @@
 
 - 🏅international certification🏅 *eJPT🔸https://certs.ine.com/e872fd70-342b-489e-83a8-981b4594c68d#gs.43ue7x
 - 🏅international certification🏅 *eCPPTv2🔸https://certs.ine.com/bbe48eca-9f77-4f2a-a445-fd8b2fa9cc36#gs.43ucc7
-- 🏅international certification🏅 *LCSPC🔸https://www.credly.com/badges/495160d4-112e-481b-968d-3dd820ff6113/public_url                                   
+- 🏅international certification🏅 *LCSPC🔸https://www.credly.com/badges/495160d4-112e-481b-968d-3dd820ff6113/public_url
+
+- <blockquote class="imgur-embed-pub" lang="en" data-id="a/BqSzkiH" data-context="false" ><a href="//imgur.com/a/BqSzkiH"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>                               
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
