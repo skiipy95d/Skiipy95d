@@ -3,8 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skipy95d&label=Profile%20views&color=0e75b6&style=flat" alt="skipy95d" /> </p>
 
-- ⚡ Profiles ⚡ *TryHackMe*  https://tryhackme.com/p/SKIPY95D
-                    *HackTheBox* https://app.hackthebox.eu/profile/886080
+<h3 align="left">🔥 Profiles 🔥</h3>
+<p align="left">
+*TryHackMe*<a href="https://tryhackme.com/p/SKIPY95D" target="blank"><img align="center" src="https://images.icon-icons.com/3915/PNG/512/tryhackme_logo_icon_249349.png" alt="" height="40" width="40" /></a>
+*HackTheBox*<a href="https://app.hackthebox.eu/profile/886080" target="blank"><img align="center" src="https://images.icon-icons.com/3912/PNG/512/hackthebox_logo_icon_248118.png" alt="" height="40" width="40" /></a>
+</p>
 
 - 🎥 stream on twitch 🎥 [https://www.twitch.tv/skipy95d](https://www.twitch.tv/skipy95d)
 
@@ -14,9 +17,12 @@
 - 🏅international certification🏅 *eCPPTv2🔸https://certs.ine.com/bbe48eca-9f77-4f2a-a445-fd8b2fa9cc36#gs.43ucc7
 - 🏅international certification🏅 *LCSPC🔸https://www.credly.com/badges/495160d4-112e-481b-968d-3dd820ff6113/public_url                            
 
+<h3 align="left">My book:</h3>
+<p align="left">
+<a href="https://linktr.ee/skipy95d" target="blank"><img align="center" src="https://images.icon-icons.com/130/PNG/256/amazon_e-commerce_business_20574.png" alt="amazon book" height="40" width="40" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linktr.ee/skipy95d" target="blank"><img align="center" src="https://images.icon-icons.com/130/PNG/256/amazon_e-commerce_business_20574.png" alt="amazon book" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/diegosabas95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegosabas95" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@SKIPY95D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="SKIPY95D" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/skipy95d" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" alt="skipy95d" height="30" width="40" /></a>
