@@ -5,8 +5,9 @@
 
 <h3 align="left">🔥 Profiles 🔥</h3>
 <p align="left">
-*TryHackMe*<a href="https://tryhackme.com/p/SKIPY95D" target="blank"><img align="center" src="https://images.icon-icons.com/3915/PNG/512/tryhackme_logo_icon_249349.png" alt="" height="40" width="40" /></a>
-*HackTheBox*<a href="https://app.hackthebox.eu/profile/886080" target="blank"><img align="center" src="https://images.icon-icons.com/3912/PNG/512/hackthebox_logo_icon_248118.png" alt="" height="40" width="40" /></a>
+TryHackMe: <a href="https://tryhackme.com/p/SKIPY95D" target="blank"><img align="center" src="https://images.icon-icons.com/3915/PNG/512/tryhackme_logo_icon_249349.png" alt="" height="40" width="40" /></a>
+<br>
+HackTheBox: <a href="https://app.hackthebox.eu/profile/886080" target="blank"><img align="center" src="https://images.icon-icons.com/3912/PNG/512/hackthebox_logo_icon_248118.png" alt="" height="40" width="40" /></a>
 </p>
 
 - 🎥 stream on twitch 🎥 [https://www.twitch.tv/skipy95d](https://www.twitch.tv/skipy95d)
