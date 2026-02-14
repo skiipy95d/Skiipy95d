@@ -17,7 +17,7 @@ HackTheBox: <a href="https://app.hackthebox.eu/profile/886080" target="blank"><i
 - 🏅international certification🏅 *eCPPTv2🔸https://certs.ine.com/bbe48eca-9f77-4f2a-a445-fd8b2fa9cc36#gs.43ucc7
 - 🏅international certification🏅 *LCSPC🔸https://www.credly.com/badges/495160d4-112e-481b-968d-3dd820ff6113/public_url
 - 🏅international certification🏅 *CEHPC🔸https://www.credly.com/badges/2893b317-776c-4452-9dc4-c44033ce7015/public_url
-- 🏅international certification🏅 *CEHPC🔸https://www.credly.com/badges/bd7b95d4-cd3e-416b-9d27-9a9819a930a4/public_url                            
+- 🏅international certification🏅 *I27001LA🔸https://www.credly.com/badges/bd7b95d4-cd3e-416b-9d27-9a9819a930a4/public_url                            
 
 <h3 align="left">My book:</h3>
 <p align="left">
